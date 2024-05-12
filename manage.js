@@ -1,11 +1,11 @@
 // initialize firbase with my config
 firebase.initializeApp({
-        apiKey: "AIzaSyCoVOigfeLjqoDQhocMKy2b_MhTvYbW6fQ",
-        authDomain: "logan-plp-web.firebaseapp.com",
-        projectId: "logan-plp-web",
-        storageBucket: "logan-plp-web.appspot.com",
-        messagingSenderId: "352511561074",
-        appId: "1:352511561074:web:4b8fbd227ec1b2bfb0a1eb" 
+        apiKey: "API-KEY",
+        authDomain: "LOG",
+        projectId: "PROJECT-ID",
+        storageBucket: "WEB-ID",
+        messagingSenderId: "#numbers",
+        appId: "#numbers" 
 });
 
 // declare a variable that will store our database object
