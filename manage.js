@@ -4,8 +4,8 @@ firebase.initializeApp({
         authDomain: "LOG",
         projectId: "PROJECT-ID",
         storageBucket: "WEB-ID",
-        messagingSenderId: "#numbers",
-        appId: "#numbers" 
+        messagingSenderId: "9452922umbers",
+        appId: "0290580umbers" 
 });
 
 // declare a variable that will store our database object
